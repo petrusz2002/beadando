@@ -1,2 +1,0 @@
-#próba
-print('első')
