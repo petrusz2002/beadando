@@ -1,6 +1,19 @@
 # beadando
 ZQ45CG_Kovács_Péter
-Random számok generálása 1-100-ig és azoknak az összehasonlítása melyik a nagyobb és melyik van közelebb
-az 50-hez
+Egy comboboxból való elem kiválasztása amit egy essemény fügyvény
+lekezel a kiválasztásakor utána a felhasználó kap egy üzenetet
+annak alapján amit kiválasztott.
+Modulok:tkinter,ttk, tkinter.messagebox,showinfo
+Függvények: tkinter =  geometry,resizable,tittle
+ttk= Combobox,Label
 
-Random modul
+
+Tanult-hoz szükséges modul:
+
+import random
+
+Bemutatando-hoz szükséges modulok:
+
+import tkinter as tk
+from tkinter import ttk
+from tkinter.messagebox import showinfo

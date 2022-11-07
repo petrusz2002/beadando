@@ -59,10 +59,10 @@ honap_cb.pack(fill=tk.X, padx=5, pady=5)
 
 
 # esemény amikor változik az érték
-def month_changed(event):
+def honap_valtozik(event):
     sajat_osztaly.megjelenetes()
 
 
-honap_cb.bind('<<ComboboxSelected>>', month_changed)
+honap_cb.bind('<<ComboboxSelected>>', honap_valtozik)
 
 root.mainloop()
