@@ -1,5 +1,7 @@
 # beadando
+
 ZQ45CG_Kovács_Péter
+
 Egy comboboxból való elem kiválasztása amit egy essemény fügyvény
 lekezel a kiválasztásakor utána a felhasználó kap egy üzenetet
 annak alapján amit kiválasztott.
