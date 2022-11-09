@@ -1,4 +1,4 @@
-def oszsehas(a,b):
+def osszehas(a,b):
     if a < b:
         print("B nagybobb mint A")
     elif b < a:
